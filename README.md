@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdussalim&label=Profile%20views&color=0e75b6&style=flat" alt="abdussalim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdussalim" alt="abdussalim" /></a> </p>
-
 - 🔭 I’m currently working on **Ankasa Ticketing**
 
 - 🌱 I’m currently learning **React, Express, GO Lang**
@@ -25,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdussalim&show_icons=true&locale=en&layout=compact" alt="abdussalim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdussalim&show_icons=true&locale=en" alt="abdussalim" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdussalim&" alt="abdussalim" /></p>
