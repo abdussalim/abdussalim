@@ -23,4 +23,4 @@
 <br>
 <br>
 
-<p>&nbsp;&nbsp;<span><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=abdussalim&show_icons=true&locale=en" alt="abdussalim" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdussalim&" alt="abdussalim" /></span></p>
+<p>&nbsp;&nbsp;&nbsp;<span><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=abdussalim&show_icons=true&locale=en" alt="abdussalim" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdussalim&" alt="abdussalim" /></span></p>
