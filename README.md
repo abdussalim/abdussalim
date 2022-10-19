@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdus Salim</h1>
-![Img 1](image/cover.jpeg)
+![bgCover](image/cover.jpeg)
 <h3 align="center">A passionate IoT Engineer and Fullstack Web Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdussalim&label=Profile%20views&color=0e75b6&style=flat" alt="abdussalim" /> </p>
