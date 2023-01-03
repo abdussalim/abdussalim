@@ -25,7 +25,6 @@
 
 <br>
 
-<p align="center"><span><img  width="400px" src="https://github-readme-stats.vercel.app/api?username=abdussalim&show_icons=true&locale=id" alt="abdussalim" />&nbsp;&nbsp;&nbsp;<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdussalim&" alt="abdussalim" /></span></p>
-
-
 <h3 align="left">My Contributions:</h3>
+
+<p align="center"><span><img  width="400px" src="https://github-readme-stats.vercel.app/api?username=abdussalim&show_icons=true&locale=id" alt="abdussalim" />&nbsp;&nbsp;&nbsp;<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdussalim&" alt="abdussalim" /></span></p>
