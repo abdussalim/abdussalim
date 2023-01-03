@@ -29,5 +29,3 @@
 
 
 <h3 align="left">My Contributions:</h3>
-
-[![Abdus Salim's github activity graph](https://activity-graph.herokuapp.com/graph?username=abdussalim&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
