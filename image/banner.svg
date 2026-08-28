@@ -1,0 +1,29 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0a2c47"/>
+      <stop offset="100%" stop-color="#0e75b6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- subtle monitoring-grid motif, right side -->
+  <g opacity="0.18" stroke="#ffffff" stroke-width="1">
+    <line x1="620" y1="30" x2="620" y2="170"/>
+    <line x1="680" y1="30" x2="680" y2="170"/>
+    <line x1="740" y1="30" x2="740" y2="170"/>
+    <line x1="800" y1="30" x2="800" y2="170"/>
+    <line x1="860" y1="30" x2="860" y2="170"/>
+    <line x1="600" y1="60" x2="880" y2="60"/>
+    <line x1="600" y1="100" x2="880" y2="100"/>
+    <line x1="600" y1="140" x2="880" y2="140"/>
+  </g>
+  <polyline points="620,120 660,95 700,110 740,60 780,85 820,50 860,70"
+            fill="none" stroke="#7fd4ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+
+  <text x="48" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Abdus Salim</text>
+  <text x="48" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#bfe3f8">Site Reliability Engineer @ Instrumeta · ex-Frontend @ Kemenkeu RI</text>
+
+  <rect x="48" y="148" width="64" height="4" rx="2" fill="#7fd4ff"/>
+</svg>
