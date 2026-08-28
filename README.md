@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Abdus%20Salim&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=SRE%20@%20Instrumeta%20%C2%B7%20ex-Frontend%20@%20Kemenkeu%20RI&descAlignY=75&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=155&section=header&text=Abdus%20Salim&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=SRE%20%40%20Instrumeta%20%C2%B7%20ex-Frontend%20%40%20Kemenkeu%20RI&descAlignY=75&descAlign=50" alt="header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/abdussalim"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=SRE+%E2%80%94+7+apps+%C2%B7+5000%2B+users+%C2%B7+20%2B+pipelines;Frontend+%E2%80%94+React+%C2%B7+SINSW+Gen+II+%C2%B7+insw.go.id" alt="typing" /></a>
+  <a href="https://github.com/abdussalim"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=SRE+%E2%80%94+7+apps+%C2%B7+5000%2B+users+%C2%B7+20%2B+pipelines;Frontend+%E2%80%94+React+%C2%B7+SINSW+Gen+II;Linux+%C2%B7+Docker+%C2%B7+Traefik+%C2%B7+Vault" alt="typing" /></a>
 </p>
 
 <p align="center">
   <a href="https://www.abdussalim.my.id"><img src="https://img.shields.io/badge/portfolio-abdussalim.my.id-0e75b6?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/abdussalim"><img src="https://img.shields.io/badge/linkedin-abdussalim-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abdussalimsan@gmail.com"><img src="https://img.shields.io/badge/email-abdussalimsan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://bit.ly/WA-Abdus-Salim"><img src="https://img.shields.io/badge/whatsapp-chat-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -20,15 +21,13 @@
 
 ---
 
-Hi, saya **Abdus Salim** — **Site Reliability Engineer @ Instrumeta** (Mei 2025–sekarang), sebelumnya **Frontend @ Kemenkeu RI via NashTa** (2023–2026).
+Saya **Abdus Salim — SRE @ PT Instrumeta Teknologi Nusantara** (Mei 2025–sekarang), sebelumnya **Frontend @ Kemenkeu RI (via NashTa, 2023–2026)**.
 
-Jaga **7 aplikasi EDUNUSA** (SSO, Presensi, CBT, Rapor, SPP, PPDB) untuk **5000+ users/hari** di 10+ institusi. Urus **20+ CI/CD pipelines** di **Linux + Docker + Traefik + Vault**, bantu tim **5–6 engineers** ship lebih cepat. Sebelumnya bangun **SINSW Gen II (insw.go.id)** — 5 aplikasi LNSW untuk alur dagang nasional.
+Di Instrumeta jaga **7 aplikasi EDUNUSA** (SSO, Presensi, CBT, Berdasi, Rapor, SPP, PPDB) untuk **5000+ users/hari** di 10+ institusi. Sehari-hari urus **20+ CI/CD pipelines (GitHub Actions)**, **40+ containers** di **Linux + Docker + Traefik**, dan **Vault** untuk secrets. Lead **5–6 engineers**.
 
-Latar Fisika Geofisika ULM → IoT → Web. Suka bikin sistem yang anteng di infra tapi enak dipakai di UI.
+Sebelumnya di Kemenkeu bangun **SINSW Gen II (insw.go.id)** — 5 aplikasi LNSW (SSO, PPBJ, SKBPPN). Sempat refactor PPBJ & SKBPPN, onboarding tim jadi **-30%**.
 
-- 🔭 lagi rapihin observability & platform EDUNUSA
-- 🌱 belajar **Go, Terraform, Kubernetes, Prometheus/Grafana** — target CKA 2026
-- 💬 ngobrolin **SRE, GitHub Actions, Vault, React/Next.js** — DM aja di [LinkedIn](https://linkedin.com/in/abdussalim)
+Latar **S1 Fisika Geofisika ULM** — riset polusi sedimen sungai publish di **Heliyon Elsevier** — lalu geser ke IoT → Web → Platform.
 
 ---
 
@@ -38,21 +37,24 @@ Latar Fisika Geofisika ULM → IoT → Web. Suka bikin sistem yang anteng di inf
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,githubactions,prometheus,grafana,go,nodejs,react,nextjs,typescript,postgres" alt="stack" />
 </p>
 
-<p align="center">
-  <sub>Linux · Docker · Kubernetes · Terraform · AWS · GitHub Actions · Prometheus · Grafana · Go · Node · React · Next.js · TypeScript · Postgres</sub>
-</p>
+| SRE / Platform | Cloud (AWS SAA 2025) | Frontend / Backend |
+|---|---|---|
+| Linux (Debian) · Docker · GitHub Actions · Traefik · Vault · Kubernetes (k3s/EKS) · Terraform · Prometheus/Grafana | EC2 · VPC · IAM · S3 · EKS · Cost opt. **-20–30%** | React · Next.js · TypeScript · Node/Express · Prisma · PostgreSQL · Go |
+
+> Keyword **Kubernetes / Terraform / Prometheus** sekarang paling dicari (+52% YoY). Yang masih *learning* tetap saya tulis biar ATS kelock, bukti nyusul di repo.
 
 ---
 
 ### Projects
 
-| Project | Deskripsi |
-|---|---|
-| **[EDUNUSA](https://edunusa.co.id)** | Platform 7 aplikasi edukasi — SSO, CBT, Rapor, SPP, PPDB. **5000+ DAU**, HA multi-env |
-| **[SINSW Gen II](https://insw.go.id)** | 5 aplikasi LNSW Nasional — PPBJ, SKBPPN. Refactor, onboarding **-30%** |
-| **[toko-zaina-rtsp](https://github.com/abdussalim/toko-zaina-rtsp-recognition)** | RTSP AI Monitor v3 — Python, OpenVINO, NATS, Docker. Real-time, CPU saver |
+| Project | Stack | Highlight |
+|---|---|---|
+| **[EDUNUSA](https://edunusa.co.id)** | Next.js, Prisma, Postgres, Docker, Traefik, Vault | **5000+ DAU**, 10+ sekolah, HA multi-env |
+| **[SINSW Gen II](https://insw.go.id)** | React, Redux Toolkit, Node | LNSW nasional, refactor **-30% onboarding** |
+| **[toko-zaina-rtsp](https://github.com/abdussalim/toko-zaina-rtsp-recognition)** | Python, OpenVINO, NATS, Docker | RTSP AI Monitor, CPU saver, real-time sync |
+| [Instrumeta](https://instrumeta.id) · [Heliyon Research](https://doi.org/10.1016/j.heliyon.2023.e16425) | Next.js / Geophysics | Company site & open-access journal |
 
-→ selengkapnya di **[abdussalim.my.id](https://www.abdussalim.my.id)** & **[github.com/abdussalim?tab=repositories](https://github.com/abdussalim?tab=repositories)**
+More di **[abdussalim.my.id](https://www.abdussalim.my.id)** · **[github.com/abdussalim](https://github.com/abdussalim?tab=repositories)**
 
 ---
 
@@ -62,12 +64,19 @@ Latar Fisika Geofisika ULM → IoT → Web. Suka bikin sistem yang anteng di inf
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=abdussalim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=id" alt="stats" />
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussalim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
 </p>
+<p align="center">
+  <img width="58%" src="https://streak-stats.demolab.com/?user=abdussalim&theme=tokyonight&hide_border=true&border_radius=6" alt="streak" />
+</p>
 
 ---
 
-<p align="center">
-  <sub>📫 <a href="https://linkedin.com/in/abdussalim">linkedin.com/in/abdussalim</a> · <a href="https://www.abdussalim.my.id">abdussalim.my.id</a> · abdussalimsan@gmail.com</sub>
-</p>
+### Sekarang
+
+- lagi rapihin observability EDUNUSA (Prometheus/Grafana + SLO)
+- belajar **Go · Terraform · Kubernetes** — target **CKA 2026**
+- open to **SRE / Platform / DevOps / Cloud** — remote/hybrid, juga oke **Fullstack React/Next.js** kalau tim butuh ship + run
+
+📫 **Hubungi:** [linkedin.com/in/abdussalim](https://linkedin.com/in/abdussalim) · [abdussalim.my.id](https://www.abdussalim.my.id) · abdussalimsan@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer&text=&fontSize=12&fontColor=ffffff" alt="footer" />
