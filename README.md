@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=155&section=header&text=Abdus%20Salim&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=SRE%20%40%20Instrumeta%20%C2%B7%20ex-Frontend%20%40%20Kemenkeu%20RI&descAlignY=75&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdus%20Salim&fontSize=38&fontColor=ffffff&animation=fadeIn&textAlignY=38&desc=SRE%20%40%20Instrumeta%20%C2%B7%20ex-Frontend%20%40%20Kemenkeu%20RI&descAlignY=58&descAlign=50&descSize=18" alt="header" />
 </p>
 
 <p align="center">
@@ -58,15 +58,15 @@ More di **[abdussalim.my.id](https://www.abdussalim.my.id)** · **[github.com/ab
 
 ---
 
-### Stats
+### Aktivitas
 
 <p align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=abdussalim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=id" alt="stats" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussalim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="langs" />
+  <img src="https://img.shields.io/github/last-commit/abdussalim/abdussalim?label=update%20profile&color=0e75b6&style=flat" alt="last commit profile" />
+  <img src="https://img.shields.io/github/last-commit/abdussalim/toko-zaina-rtsp-recognition?label=update%20toko-zaina&color=0e75b6&style=flat" alt="last commit toko-zaina" />
+  <img src="https://img.shields.io/github/stars/abdussalim/toko-zaina-rtsp-recognition?label=stars&color=0e75b6&style=flat" alt="stars toko-zaina" />
 </p>
-<p align="center">
-  <img width="58%" src="https://streak-stats.demolab.com/?user=abdussalim&theme=tokyonight&hide_border=true&border_radius=6" alt="streak" />
-</p>
+
+<p align="center"><sub>Paling aktif shipping di <a href="https://github.com/abdussalim/toko-zaina-rtsp-recognition"><b>toko-zaina-rtsp-recognition</b></a> — RTSP AI Monitor (Python, OpenVINO, NATS, Docker) — proof-of-work paling dekat ke kerjaan SRE/Platform sehari-hari.</sub></p>
 
 ---
 
