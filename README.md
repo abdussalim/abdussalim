@@ -74,6 +74,7 @@ More di **[abdussalim.my.id](https://www.abdussalim.my.id)** · **[github.com/ab
 
 - lagi rapihin observability EDUNUSA (Prometheus/Grafana + SLO)
 - belajar **Go · Terraform · Kubernetes** — target **CKA 2026**
+- Board @ICCom (Indonesia Cloud Community) & Member @DF Labs — speaker/moderator webinar, riset LLM/AI mingguan
 - open to **SRE / Platform / DevOps / Cloud** — remote/hybrid, juga oke **Fullstack React/Next.js** kalau tim butuh ship + run
 
 📫 **Hubungi:** [linkedin.com/in/abdussalim](https://linkedin.com/in/abdussalim) · [abdussalim.my.id](https://www.abdussalim.my.id) · abdussalimsan@gmail.com
