@@ -13,11 +13,11 @@
 
 ---
 
-Saya jaga platform di balik **EDUNUSA** — 7 aplikasi (SSO, presensi, CBT, rapor, SPP, PPDB) untuk 5.000+ pengguna harian di 10+ sekolah. Sehari-hari itu berarti 20+ pipeline GitHub Actions, Docker + Traefik di Linux, dan Vault untuk secrets — sambil memimpin tim 5–6 engineer.
+Saya yang jaga **EDUNUSA** tetap jalan — tujuh aplikasi yang dipakai ribuan siswa dan guru tiap hari, dari absen sampai rapor, di 10+ sekolah. Kerjaan hariannya lebih banyak di pipeline, container, dan Vault daripada nulis fitur baru; kalau ada yang rewel pas jam sibuk, itu yang saya benerin duluan. Saya juga pegang tim kecil, 5–6 engineer.
 
-Sebelumnya saya frontend di Kemenkeu RI, membangun **SINSW Gen II** (insw.go.id) — 5 aplikasi untuk National Single Window perdagangan nasional. Sempat refactor dua aplikasi terberat (PPBJ, SKBPPN) dan memangkas waktu onboarding engineer baru 30%.
+Sebelum ini saya di tim frontend Kemenkeu RI, ikut bangun **SINSW Gen II** (insw.go.id) — sistem buat proses ekspor-impor nasional. Dua modul yang paling berantakan, PPBJ dan SKBPPN, sempat saya rapikan sampai orang baru nggak perlu berminggu-minggu buat ngerti codebase-nya.
 
-Latar belakang saya fisika — geofisika di ULM, dengan riset yang terbit di [Heliyon/Elsevier](https://doi.org/10.1016/j.heliyon.2023.e16425) soal polusi sedimen sungai — sebelum pindah ke IoT, lalu web, lalu platform engineering.
+Latar belakang saya sebenarnya fisika, bukan IT — geofisika di ULM, skripsi soal sedimen sungai yang kepublish di [Heliyon/Elsevier](https://doi.org/10.1016/j.heliyon.2023.e16425). Dari situ saya nyasar ke IoT, lanjut ke web, dan sekarang malah betah di infra.
 
 ## Stack
 
@@ -40,9 +40,7 @@ Latar belakang saya fisika — geofisika di ULM, dengan riset yang terbit di [He
 
 ## Sekarang
 
-- Merapikan observability EDUNUSA (Prometheus/Grafana, SLO)
-- Belajar Go, Terraform, Kubernetes — target CKA 2026
-- Board **ICCom** (Indonesia Cloud Community) & riset LLM/AI mingguan di **DF Labs**
+Lagi beresin observability EDUNUSA (Prometheus/Grafana, SLO) pelan-pelan, sambil nyicil Go, Terraform, dan Kubernetes menuju CKA 2026 — belum semuanya kepakai production, masih jujur di tahap belajar. Di luar kerjaan, saya di board **ICCom** (Indonesia Cloud Community) dan ikut riset LLM/AI mingguan di **DF Labs**.
 
 ---
 
